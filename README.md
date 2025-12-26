@@ -4,7 +4,7 @@
   <img width="2343" height="2340" alt="owl" src="https://github.com/user-attachments/assets/e47822d3-e54f-4a28-b1ad-2fd2f8825451" />
 </div>
 
-[smile](https://github.com/user-attachments/assets/2db759a0-d03d-41cf-bdbe-f796ca9fcd9a) I'm Suyash!
+![smile](https://github.com/user-attachments/assets/2db759a0-d03d-41cf-bdbe-f796ca9fcd9a) I'm Suyash!
 (Developer)
 <br />
 

@@ -35,3 +35,45 @@
 <br />
 <br />
 <br />
+
+<!--Contact Section--> 
+<div>
+  
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:suyashaditya919@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="suyashaditya919@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/Aelius_aditya" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="SuyashX" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/aelius_aditya/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="SuyashInsta" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/SUYASHADITYA919" target="_blank">
+<img src="./github.png" width=50 height=50 alt="SUYASHADITYA919" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/suyash-aditya919/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="Suyashlinkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+</div>
